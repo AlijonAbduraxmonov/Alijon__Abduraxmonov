@@ -1,0 +1,3 @@
+uyga vazifa:
+ 1. mavzuni takrorlash
+ 2. Git hub da yangi repository ochish
